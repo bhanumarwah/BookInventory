@@ -38,3 +38,5 @@ The steps involved in making this app are as follows:
 
 
 If you find a bug, kindly open an issue here by including your search query and expected result.
+
+If you liked what you saw, want to have a chat with me about my program, work opportunities, or collaboration, shoot an email at marwahbbhanu@gmail.com.
