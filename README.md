@@ -3,7 +3,7 @@
 
 ## Demo
 
-![Frontend](D:\Tushar\Bhanu\Book_inv_app\dist\frontend.exe)
+Download : [Frontend](https://github.com/bhanumarwah/BookInventory/releases/tag/v0.1)
 
 ## Overview
 
