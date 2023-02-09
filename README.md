@@ -19,6 +19,7 @@ We all have spent time in the library looking at the huge collection of books. I
 The app is divided into two parts:
 1.	Graphical User Interface (GUI)
 2.	Backend coding
+
 The steps involved in making this app are as follows:
 1.	Designing the user interface – It includes forming the layout of the window that we will be visible to the viewer/user.
 2.	Coding the Frontend Interface – It involves placing all the labels, entry box and buttons keeping the design of the interface in mind.
